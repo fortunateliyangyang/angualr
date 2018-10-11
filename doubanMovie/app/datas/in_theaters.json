@@ -1,0 +1,350 @@
+﻿{
+    "count": 5,
+    "start": 0,
+    "total": 41,
+    "subjects": [
+        {
+            "rating": {
+                "max": 10,
+                "average": 5.3,
+                "stars": "30",
+                "min": 0
+            },
+            "genres": [
+                "动作",
+                "犯罪"
+            ],
+            "title": "黄金兄弟",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1031793/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p37040.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p37040.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p37040.jpg"
+                    },
+                    "name": "郑伊健",
+                    "id": "1031793"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1075760/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1351835006.51.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1351835006.51.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1351835006.51.jpg"
+                    },
+                    "name": "陈小春",
+                    "id": "1075760"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1010833/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p31476.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p31476.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p31476.jpg"
+                    },
+                    "name": "谢天华",
+                    "id": "1010833"
+                }
+            ],
+            "collect_count": 10940,
+            "original_title": "黄金兄弟",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1025476/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1382590992.31.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1382590992.31.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1382590992.31.jpg"
+                    },
+                    "name": "钱嘉乐",
+                    "id": "1025476"
+                }
+            ],
+            "year": "2018",
+            "images": {
+                "small": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534913288.jpg",
+                "large": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534913288.jpg",
+                "medium": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534913288.jpg"
+            },
+            "alt": "https://movie.douban.com/subject/27069427/",
+            "id": "27069427"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 5.8,
+                "stars": "30",
+                "min": 0
+            },
+            "genres": [
+                "剧情",
+                "动作",
+                "犯罪"
+            ],
+            "title": "反贪风暴3",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1027577/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1421047436.79.jpg",
+                        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1421047436.79.jpg",
+                        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1421047436.79.jpg"
+                    },
+                    "name": "古天乐",
+                    "id": "1027577"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1050979/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1241.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1241.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1241.jpg"
+                    },
+                    "name": "张智霖",
+                    "id": "1050979"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1274666/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p40550.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p40550.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p40550.jpg"
+                    },
+                    "name": "郑嘉颖",
+                    "id": "1274666"
+                }
+            ],
+            "collect_count": 52873,
+            "original_title": "L風暴",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1326068/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1357529568.73.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1357529568.73.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1357529568.73.jpg"
+                    },
+                    "name": "林德禄 ",
+                    "id": "1326068"
+                }
+            ],
+            "year": "2018",
+            "images": {
+                "small": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2531887203.jpg",
+                "large": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2531887203.jpg",
+                "medium": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2531887203.jpg"
+            },
+            "alt": "https://movie.douban.com/subject/26996640/",
+            "id": "26996640"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 8.2,
+                "stars": "45",
+                "min": 0
+            },
+            "genres": [
+                "动作",
+                "惊悚",
+                "冒险"
+            ],
+            "title": "碟中谍6：全面瓦解",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1054435/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p567.jpg",
+                        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p567.jpg",
+                        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p567.jpg"
+                    },
+                    "name": "汤姆·克鲁斯",
+                    "id": "1054435"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1044713/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1371934661.95.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1371934661.95.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1371934661.95.jpg"
+                    },
+                    "name": "亨利·卡维尔",
+                    "id": "1044713"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1048129/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8712.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8712.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8712.jpg"
+                    },
+                    "name": "文·瑞姆斯",
+                    "id": "1048129"
+                }
+            ],
+            "collect_count": 447348,
+            "original_title": "Mission: Impossible - Fallout",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1276314/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535912054.09.jpg",
+                        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535912054.09.jpg",
+                        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535912054.09.jpg"
+                    },
+                    "name": "克里斯托弗·麦奎里",
+                    "id": "1276314"
+                }
+            ],
+            "year": "2018",
+            "images": {
+                "small": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529365085.jpg",
+                "large": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529365085.jpg",
+                "medium": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529365085.jpg"
+            },
+            "alt": "https://movie.douban.com/subject/26336252/",
+            "id": "26336252"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 7.8,
+                "stars": "40",
+                "min": 0
+            },
+            "genres": [
+                "爱情",
+                "犯罪"
+            ],
+            "title": "江湖儿女",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1005985/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1448114660.11.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1448114660.11.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1448114660.11.jpg"
+                    },
+                    "name": "赵涛",
+                    "id": "1005985"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1007401/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1454644679.84.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1454644679.84.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1454644679.84.jpg"
+                    },
+                    "name": "廖凡",
+                    "id": "1007401"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1274297/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p43738.jpg",
+                        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p43738.jpg",
+                        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p43738.jpg"
+                    },
+                    "name": "徐峥",
+                    "id": "1274297"
+                }
+            ],
+            "collect_count": 61586,
+            "original_title": "江湖儿女",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1274261/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p38530.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p38530.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p38530.jpg"
+                    },
+                    "name": "贾樟柯",
+                    "id": "1274261"
+                }
+            ],
+            "year": "2018",
+            "images": {
+                "small": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2533283770.jpg",
+                "large": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2533283770.jpg",
+                "medium": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2533283770.jpg"
+            },
+            "alt": "https://movie.douban.com/subject/26972258/",
+            "id": "26972258"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 6,
+                "stars": "30",
+                "min": 0
+            },
+            "genres": [
+                "剧情",
+                "爱情"
+            ],
+            "title": "悲伤逆流成河",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1396966/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531194852.71.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531194852.71.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531194852.71.jpg"
+                    },
+                    "name": "赵英博",
+                    "id": "1396966"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1397388/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531714113.81.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531714113.81.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531714113.81.jpg"
+                    },
+                    "name": "任敏",
+                    "id": "1397388"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1397178/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1537417749.08.jpg",
+                        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1537417749.08.jpg",
+                        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1537417749.08.jpg"
+                    },
+                    "name": "辛云来",
+                    "id": "1397178"
+                }
+            ],
+            "collect_count": 10612,
+            "original_title": "悲伤逆流成河",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1351362/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1447900476.87.jpg",
+                        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1447900476.87.jpg",
+                        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1447900476.87.jpg"
+                    },
+                    "name": "落落",
+                    "id": "1351362"
+                }
+            ],
+            "year": "2018",
+            "images": {
+                "small": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529701498.jpg",
+                "large": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529701498.jpg",
+                "medium": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529701498.jpg"
+            },
+            "alt": "https://movie.douban.com/subject/27102569/",
+            "id": "27102569"
+        }
+    ],
+    "title": "正在上映的电影-广州"
+}
