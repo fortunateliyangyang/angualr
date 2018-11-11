@@ -1,0 +1,50 @@
+/* 更严谨 更容易接受的语法 */
+
+$c: red;
+
+@mixin demo{
+  margin: 0 auto;
+
+}
+
+  $c: blue !default;
+body{
+  @include demo;
+  background-color: #fff;
+  color: $c;
+}
+
+div{
+
+  color: $c;
+  border:{
+    left:1px solid;
+    right:1px solid;
+  }
+}
+
+@mixin box-shadow{
+  box-shadow:1px 1px;
+}
+#div1{
+  @include box-shadow;
+}
+#div2{
+  @include box-shadow;
+}
+
+
+.content1{
+  width: 100px;
+  height: 100px;
+  background-color: #FFF;
+}
+
+.content1 a{
+  color: #000;
+}
+
+
+.content2{
+  @extend .content1;
+}

@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* 更严谨 更容易接受的语法 */
+body {
+  margin: 0 auto;
+  background-color: #fff;
+  color: red; }
+
+div {
+  color: red;
+  border-left: 1px solid;
+  border-right: 1px solid; }
+
+#div1 {
+  box-shadow: 1px 1px; }
+
+#div2 {
+  box-shadow: 1px 1px; }
+
+.content1, .content2 {
+  width: 100px;
+  height: 100px;
+  background-color: #FFF; }
+
+.content1 a, .content2 a {
+  color: #000; }
+
+/*# sourceMappingURL=demo2.css.map */
